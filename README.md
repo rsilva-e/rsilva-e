@@ -12,10 +12,7 @@
    <a href="" target=""><img src="https://media.licdn.com/dms/image/C560BAQGHvk17rp8KWA/company-logo_100_100/0/1630584522334/ispgaya_logo?e=1709164800&v=beta&t=-HgPE_z6fraHd5KP8g7Ql3zdia9GLMYgbSYGHQ_nDFI" width=" 40" target="_blank"></a> <a href="" target=""><img src="https://media.licdn.com/dms/image/D4D0BAQFQNwcf2qpQDA/company-logo_100_100/0/1695711589884/isep_logo?e=1709164800&v=beta&t=JugMTke7SboUwrDdBy0EhUJf-NbLvHJto9zI4vV86gg" width=" 40" target="_blank"></a> <a href="https://www.42porto.pt" target="_blank"> <img src="https://simpleicons.org/icons/42.svg" width=" 50" target="_blank"> </a>
 
 
-<!---
-rsilva-e/rsilva-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
 <div> 
