@@ -49,4 +49,85 @@
 - ⚡ Fun fact:
   - I enjoy understanding how things work — from mechanical systems to operating systems
 
+
+
+
+  ## 👋 Hello! Welcome to my GitHub profile.
+### My name is Ricardo Sousa (aka **rsilva-e**)
+
+- 👨‍🔧 Mechanical Engineer with solid industrial background, currently transitioning into **Software Engineering**
+- 🎓 Student @ **42 Porto** (2023 – 2025) — Common Core in progress (internship pending)
+- 👀 Interested in:
+  - System programming
+  - Low-level software
+  - Performance, reliability & quality
+- 🔭 Currently working on:
+  - 42 school projects
+  - Strengthening fundamentals in C and system-level programming
+- 🌱 Currently learning:
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25"/>
+- 🧠 Currently learning (low-level):
+  - **Assembly (x86-64)**
+- 👯 Looking to collaborate on:
+  - C / C++ projects
+  - System programming & tooling
+  - Beginner-friendly open-source projects
+- 📫 How to reach me:
+  - 📧 rjs.sousa@hotmail.com
+  - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)
+- ⚡ Fun fact:
+  - I like debugging problems until I understand them completely — from mechanical failures to segmentation faults
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**  
+C • C++ • Python • JavaScript • HTML • CSS • Bash • SQL
+
+**Frameworks & Libraries**  
+Libft • MiniLibX • Makefile • Django • Docker • Git • Valgrind • GDB
+
+**Tools**  
+Vim • VS Code • GCC / Clang • Terminal (zsh / bash) • Docker • GitHub
+
+**Databases**  
+PostgreSQL • MariaDB
+
+---
+
+### 🎓 Education
+
+<a href="https://www.42porto.pt" target="_blank">
+  <img src="https://simpleicons.org/icons/42.svg" width="40"/>
+</a>  
+**42 Porto** — Common Core (2023 – 2025)  
+*Internship pending*
+
+<a href="" target="_blank">
+  <img src="https://media.licdn.com/dms/image/C560BAQGHvk17rp8KWA/company-logo_100_100/0/1630584522334/ispgaya_logo?e=1709164800&v=beta&t=-HgPE_z6fraHd5KP8g7Ql3zdia9GLMYgbSYGHQ_nDFI" width="35"/>
+</a>
+<a href="" target="_blank">
+  <img src="https://media.licdn.com/dms/image/D4D0BAQFQNwcf2qpQDA/company-logo_100_100/0/1695711589884/isep_logo?e=1709164800&v=beta&t=JugMTke7SboUwrDdBy0EhUJf-NbLvHJto9zI4vV86gg" width="35"/>
+</a>
+
+---
+
+<div> 
+  <a href="mailto:rjs.sousa@hotmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+</div>
+
+
       
