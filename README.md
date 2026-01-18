@@ -23,5 +23,30 @@
 </div>
 
 
-            
+
+
+
+## 👋 Hello! Welcome to my GitHub profile.
+### My name is Ricardo Sousa (aka **rsilva-e**)
+
+- 👨‍💻 Mechanical Engineer with 10+ years of experience in industrial environments
+- 🔁 Currently transitioning into **Software Engineering**
+- 🎓 Common Core graduate @ **42 Porto**
+- 🌱 Currently learning:
+  - Low-level programming in **C**
+  - **Unix/Linux** systems
+  - Shell scripting & processes
+- 🔭 Currently working on:
+  - 42 school projects (Minishell, Libft, etc.)
+  - Improving code quality and system-level understanding
+- 👯 Looking to collaborate on:
+  - C projects
+  - System programming
+  - Open-source beginner-friendly projects
+- 📫 How to reach me:
+  - Email: **rjs.sousa@hotmail.com**
+  - LinkedIn: [Ricardo Sousa](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)
+- ⚡ Fun fact:
+  - I enjoy understanding how things work — from mechanical systems to operating systems
+
       
