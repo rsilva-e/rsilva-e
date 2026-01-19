@@ -22,6 +22,11 @@ Git • GCC/Clang • Vim • VS Code • Terminal (zsh/bash) • GitHub
 PostgreSQL • MariaDB
 
 ---
+
+### 🔗 Links
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjs.sousa@hotmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)
+
 ### 🔗 Links
 <div> 
   <a href="mailto:rjs.sousa@hotmail.com">
