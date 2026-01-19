@@ -48,7 +48,7 @@ PostgreSQL • MariaDB
 | 1 | **ft_printf** | Implemented a simplified version of `printf`. |
 | 1 | **get_next_line** | Created a function to read files line by line. |
 | 1 | **born2beroot** | Set up and secured a Linux virtual machine following strict guidelines. |
-| 2 | **minitalk** | Implemented basic communication between two programs using UNIX signals. |
+| 2 | **pipex** | Implemented a program that replicates shell pipelines, handling multiple commands and redirections.  
 | 2 | **so_long** | Developed a simple 2D game using MiniLibX. |
 | 2 | **push_swap** | Solved a constrained sorting problem focusing on performance. |
 | 3 | **minishell** | Built a minimal shell with command execution, pipes, and redirections. |
