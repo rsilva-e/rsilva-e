@@ -36,3 +36,27 @@ PostgreSQL • MariaDB
 ---
 
 💡 I love solving problems and figuring out how things work — from machines to code
+
+
+
+
+## 42 School Projects
+
+| Rank | Project          | Description |
+|-----:|------------------|-------------|
+| 0 | **libft** | Built a personal C library by reimplementing standard functions. |
+| 1 | **ft_printf** | Implemented a simplified version of `printf`. |
+| 1 | **get_next_line** | Created a function to read files line by line. |
+| 1 | **born2beroot** | Set up and secured a Linux virtual machine following strict guidelines. |
+| 2 | **minitalk** | Implemented basic communication between two programs using UNIX signals. |
+| 2 | **so_long** | Developed a simple 2D game using MiniLibX. |
+| 2 | **push_swap** | Solved a constrained sorting problem focusing on performance. |
+| 3 | **minishell** | Built a minimal shell with command execution, pipes, and redirections. |
+| 3 | **philosophers** | Solved synchronization problems using threads and mutexes. |
+| 4 | **NetPractice** | Practiced core networking concepts and IP configuration. |
+| 4 | **cub3D** | Built a basic 3D maze renderer using raycasting and MiniLibX. |
+| 4 | **cpp_modules** | Learned C++ fundamentals and object-oriented programming. |
+| 5 | **inception** | Built a multi-container application using Docker and NGINX. |
+| 5 | **webserv** | Built a basic HTTP server inspired by NGINX. |
+| 6 | **ft_transcendence** | Developed a real-time multiplayer web application. |
+
