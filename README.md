@@ -113,27 +113,3 @@ PostgreSQL • MariaDB
 </div>
 
 
-## 👋 Hi, I'm Ricardo Sousa (rsilva-e)
-
-Mechanical Engineer transitioning into **Software Engineering**  
-Student @ **42 Porto** (Common Core in progress, internship pending)
-
-- 👀 Interested in: System programming, Low-level software, Performance & reliability  
-- 🔭 Working on: 42 school projects (Minishell, Libft)  
-- 🌱 Learning: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="25"/> 
-- 👯 Open to collaborate: C/C++ projects, System programming, Beginner-friendly open-source  
-- 📫 Contact: [Email](mailto:rjs.sousa@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)  
-- ⚡ Fun fact: I love debugging until I understand the problem completely — from mechanical failures to segmentation faults
-
-
-
-      
