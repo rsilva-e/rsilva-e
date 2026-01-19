@@ -90,13 +90,13 @@
 ### 🛠️ Technical Skills
 
 **Programming Languages**  
-C • C++ • Python • JavaScript • HTML • CSS • Bash • SQL
+C • C++ • Python • JavaScript • HTML • CSS • Bash • SQL • Assembly (x86-64)
 
 **Frameworks & Libraries**  
-Libft • MiniLibX • Makefile • Django • Docker • Git • Valgrind • GDB
+Libft • MiniLibX • Makefile • Django • Git • Valgrind • GDB
 
 **Tools**  
-Vim • VS Code • GCC / Clang • Terminal (zsh / bash) • Docker • GitHub
+Docker • Vim • VS Code • GCC / Clang • Terminal (zsh / bash) • Docker • GitHub
 
 **Databases**  
 PostgreSQL • MariaDB
