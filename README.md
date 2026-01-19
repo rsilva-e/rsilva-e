@@ -13,10 +13,10 @@ Mechanical Engineer exploring software, with a passion for **backend development
 C • C++ • Python • JavaScript • HTML • CSS • Bash • SQL • Assembly (x86-64)
 
 ### 📚 Frameworks & Libraries  
-Libft • MiniLibX • Makefile • Django • Valgrind • GDB • Docker
+Libft • MiniLibX • Makefile • Django • Valgrind • GDB 
 
 ### 🛠 Tools  
-Git • GCC/Clang • Vim • VS Code • Terminal (zsh/bash) • GitHub
+Docker • Git • GCC/Clang • Vim • VS Code • Terminal (zsh/bash) • GitHub
 
 ### 🗄 Databases  
 PostgreSQL • MariaDB
