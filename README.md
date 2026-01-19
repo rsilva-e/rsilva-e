@@ -2,8 +2,7 @@
 ## 👋 Hello! Welcome to my GitHub
 
 Hi, I'm Ricardo Sousa (rsilva-e).  
-I’m a **Mechanical Engineer exploring the world of Software**, with a passion for **backend development** and understanding how systems work.
-
+Mechanical Engineer exploring software, with a passion for **backend development** and solving complex problems.
 ---
 
 ### 🛠️ Technical Skills
