@@ -103,23 +103,6 @@ PostgreSQL • MariaDB
 
 ---
 
-### 🎓 Education
-
-<a href="https://www.42porto.pt" target="_blank">
-  <img src="https://simpleicons.org/icons/42.svg" width="40"/>
-</a>  
-**42 Porto** — Common Core (2023 – 2025)  
-*Internship pending*
-
-<a href="" target="_blank">
-  <img src="https://media.licdn.com/dms/image/C560BAQGHvk17rp8KWA/company-logo_100_100/0/1630584522334/ispgaya_logo?e=1709164800&v=beta&t=-HgPE_z6fraHd5KP8g7Ql3zdia9GLMYgbSYGHQ_nDFI" width="35"/>
-</a>
-<a href="" target="_blank">
-  <img src="https://media.licdn.com/dms/image/D4D0BAQFQNwcf2qpQDA/company-logo_100_100/0/1695711589884/isep_logo?e=1709164800&v=beta&t=JugMTke7SboUwrDdBy0EhUJf-NbLvHJto9zI4vV86gg" width="35"/>
-</a>
-
----
-
 <div> 
   <a href="mailto:rjs.sousa@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -128,6 +111,29 @@ PostgreSQL • MariaDB
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
+
+
+## 👋 Hi, I'm Ricardo Sousa (rsilva-e)
+
+Mechanical Engineer transitioning into **Software Engineering**  
+Student @ **42 Porto** (Common Core in progress, internship pending)
+
+- 👀 Interested in: System programming, Low-level software, Performance & reliability  
+- 🔭 Working on: 42 school projects (Minishell, Libft)  
+- 🌱 Learning: 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="25"/> 
+- 👯 Open to collaborate: C/C++ projects, System programming, Beginner-friendly open-source  
+- 📫 Contact: [Email](mailto:rjs.sousa@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)  
+- ⚡ Fun fact: I love debugging until I understand the problem completely — from mechanical failures to segmentation faults
+
 
 
       
