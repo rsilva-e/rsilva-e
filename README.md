@@ -1,9 +1,8 @@
-## 👋 Hello! Welcome to my GitHub profile
 
-👨‍🔧 Mechanical Engineer transitioning into **Software Engineering**  
-💻 Passionate about **backend development**  
-⚡ Fun fact: I love **debugging problems until I fully understand them** — from mechanical systems to code
+## 👋 Hello! Welcome to my GitHub
 
+Hi, I'm Ricardo Sousa (rsilva-e).  
+I’m a **Mechanical Engineer exploring the world of Software**, with a passion for **backend development** and understanding how systems work.
 
 ---
 
@@ -24,10 +23,6 @@ PostgreSQL • MariaDB
 ---
 
 ### 🔗 Links
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjs.sousa@hotmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)
-
-### 🔗 Links
 <div> 
   <a href="mailto:rjs.sousa@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -38,3 +33,4 @@ PostgreSQL • MariaDB
 </div>
 
 
+💡 I love solving problems and figuring out how things work — from machines to code
