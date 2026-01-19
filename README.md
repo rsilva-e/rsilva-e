@@ -1,7 +1,8 @@
 
 ## 👋 Hello! Welcome to my GitHub
 
-Hi, I'm Ricardo Sousa (rsilva-e).  
+Hi, I'm Ricardo Sousa (rsilva-e).
+
 Mechanical Engineer exploring software, with a passion for **backend development** and solving complex problems.
 
 ---
