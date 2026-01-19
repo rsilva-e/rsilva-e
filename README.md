@@ -60,3 +60,10 @@ PostgreSQL • MariaDB
 | 5 | **webserv** | Built a basic HTTP server inspired by NGINX. |
 | 6 | **ft_transcendence** | Developed a real-time multiplayer web application including Pong and Connect Four games.  
 
+## 42 Advanced Projects
+
+| Tech Stack | Project     | Description |
+|------------|------------|-------------|
+| Assembly/C | lisbasm    | Developed an assembler that translates assembly code into machine code and generates a static library for C programs. |
+
+
