@@ -66,7 +66,6 @@ PostgreSQL • MariaDB
 | Language | Project   | Description |
 |----------|-----------|-------------|
 | Assembly | lisbasm   | Built a static library in Assembly by rewriting C functions.
-y. |
 
 
 
