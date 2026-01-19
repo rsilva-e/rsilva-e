@@ -22,117 +22,29 @@
   
 </div>
 
+## 👋 Hello! Welcome to my GitHub profile
+### I'm Ricardo Sousa (aka rsilva-e)
 
+👨‍🔧 Mechanical Engineer transitioning into **Software Engineering**  
+💻 Passionate about **backend development and system programming**  
+⚡ Fun fact: I love **debugging problems until I fully understand them** — from mechanical systems to code
 
-
-
-## 👋 Hello! Welcome to my GitHub profile.
-### My name is Ricardo Sousa (aka **rsilva-e**)
-
-- 👨‍💻 Mechanical Engineer with 10+ years of experience in industrial environments
-- 🔁 Currently transitioning into **Software Engineering**
-- 🎓 Common Core graduate @ **42 Porto**
-- 🌱 Currently learning:
-  - Low-level programming in **C**
-  - **Unix/Linux** systems
-  - Shell scripting & processes
-- 🔭 Currently working on:
-  - 42 school projects (Minishell, Libft, etc.)
-  - Improving code quality and system-level understanding
-- 👯 Looking to collaborate on:
-  - C projects
-  - System programming
-  - Open-source beginner-friendly projects
-- 📫 How to reach me:
-  - Email: **rjs.sousa@hotmail.com**
-  - LinkedIn: [Ricardo Sousa](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)
-- ⚡ Fun fact:
-  - I enjoy understanding how things work — from mechanical systems to operating systems
-
-
-
-
-  ## 👋 Hello! Welcome to my GitHub profile.
-### My name is Ricardo Sousa (aka **rsilva-e**)
-
-- 👨‍🔧 Mechanical Engineer with solid industrial background, currently transitioning into **Software Engineering**
-- 🎓 Student @ **42 Porto** (2023 – 2025) — Common Core in progress (internship pending)
-- 👀 Interested in:
-  - System programming
-  - Low-level software
-  - Performance, reliability & quality
-- 🔭 Currently working on:
-  - 42 school projects
-  - Strengthening fundamentals in C and system-level programming
-- 🌱 Currently learning:
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25"/>
-- 🧠 Currently learning (low-level):
-  - **Assembly (x86-64)**
-- 👯 Looking to collaborate on:
-  - C / C++ projects
-  - System programming & tooling
-  - Beginner-friendly open-source projects
-- 📫 How to reach me:
-  - 📧 rjs.sousa@hotmail.com
-  - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-sousa-3a14b6b2/)
-- ⚡ Fun fact:
-  - I like debugging problems until I understand them completely — from mechanical failures to segmentation faults
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Programming Languages**  
+### 🖥️ Languages  
 C • C++ • Python • JavaScript • HTML • CSS • Bash • SQL • Assembly (x86-64)
 
-**Frameworks & Libraries**  
-Libft • MiniLibX • Makefile • Django • Git • Valgrind • GDB
+### 📚 Frameworks & Libraries  
+Libft • MiniLibX • Makefile • Django • Valgrind • GDB • Docker
 
-**Tools**  
-Docker • Vim • VS Code • GCC / Clang • Terminal (zsh / bash) • Docker • GitHub
+### 🛠 Tools  
+Git • GCC/Clang • Vim • VS Code • Terminal (zsh/bash) • GitHub
 
-**Databases**  
+### 🗄 Databases  
 PostgreSQL • MariaDB
-### 🛠 Technical Skills
-
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="25"/>  
-
-**Frameworks & Libraries:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/make/make-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/libreoffice/libreoffice-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minilibx/minilibx-original.svg" width="25"/>  
-
-**Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clang/clang-original.svg" width="25"/>  
-
-**Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="25"/>
 
 ---
 ### 🔗 Links
