@@ -33,6 +33,6 @@ PostgreSQL • MariaDB
   </a> 
 </div>
 
-
+---
 
 💡 I love solving problems and figuring out how things work — from machines to code
