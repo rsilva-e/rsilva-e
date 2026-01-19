@@ -65,7 +65,8 @@ PostgreSQL • MariaDB
 
 | Language | Project   | Description |
 |----------|-----------|-------------|
-| Assembly | lisbasm   | Developed an assembler that translates assembly code into machine code and generates a static library. |
+| Assembly | lisbasm   | Built a static library in Assembly by rewriting C functions.
+y. |
 
 
 
