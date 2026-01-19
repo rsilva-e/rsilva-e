@@ -102,7 +102,7 @@ Docker • Vim • VS Code • GCC / Clang • Terminal (zsh / bash) • Docker 
 PostgreSQL • MariaDB
 
 ---
-
+### 🔗 Links
 <div> 
   <a href="mailto:rjs.sousa@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
