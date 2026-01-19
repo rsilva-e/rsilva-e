@@ -59,5 +59,4 @@ PostgreSQL • MariaDB
 | 5 | **inception** | Created a multi-service application using Docker(NGINX, WordPress & MariaDB) |
 | 5 | **webserv** | Built a basic HTTP server inspired by NGINX. |
 | 6 | **ft_transcendence** | Developed a real-time multiplayer web application including Pong and Connect Four games.  
-. |
 
